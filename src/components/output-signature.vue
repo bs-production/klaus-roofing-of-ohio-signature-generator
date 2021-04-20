@@ -93,7 +93,7 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a>
                     
-                    <a href="https://www.google.com/maps/place/Klaus+Roofing+of+Ohio/@39.6779441,-84.7796876,7z/data=!3m1!4b1!4m5!3m4!1s0x883891b8874b5773:0x6f670204a35fadc8!8m2!3d39.6995304!4d-82.53643" target="_blank"
+                    <a href="https://g.page/klaus-roofing-OH/review?rc" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
