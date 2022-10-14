@@ -1,4 +1,4 @@
-# Klaus Roofing Systems of Carolina Email Signature Generator for Microsoft Outlook
+# Klaus Roofing Systems of Ohio Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 
