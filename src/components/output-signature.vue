@@ -11,7 +11,6 @@
                 <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2738/signature-logo-bar-krs.png" name="preview-image-url" />
               </a>
             </td>
-            
             <td style=
             "padding-top: 0; padding-bottom: 0; padding-left: 5px; padding-right: 0;">
             <table cellpadding="0" cellspacing="0" border="0" style=
